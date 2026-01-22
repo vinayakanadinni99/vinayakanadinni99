@@ -1,6 +1,6 @@
 ## Hi, I’m Vinayak 👋
 
-I’m a **Data Scientist and MLOps-focused Machine Learning Engineer** currently pursuing a **Master’s in Data Science at Illinois Institute of Technology (Chicago)** with a GPA of **3.7/4.0**.
+I’m a **Data Scientist and MLOps-focused Machine Learning Engineer** currently pursuing a **Master’s in Data Science at Illinois Institute of Technology (Chicago)** with a GPA of **3.72/4.0**.
 
 I have hands-on experience building **production-grade data and ML systems** across analytics, machine learning, and MLOps — from ETL orchestration and feature engineering to model deployment, monitoring, and optimization.
 
